@@ -6,7 +6,7 @@ I'm learning Graphql so I created this project that uses the Apollo GraphQL serv
 
 After cloning this repo and running `npm install`
 
-Start the server with `npm run dev`
+Start the server with `npm start`
 
 The Apollo client will start at  [localhost:8080/graphql](localhost:8080/graphql)
 
