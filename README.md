@@ -41,7 +41,7 @@ Query {
     getAll {
         # Fields are id, name and username
         name
-        username
+        email
     }
 }
 ```
@@ -52,7 +52,7 @@ Retrieve one user's information using its id:
 Query {
     getOne(id:1) {
         name
-        username
+        email
     }
 }
 ```
